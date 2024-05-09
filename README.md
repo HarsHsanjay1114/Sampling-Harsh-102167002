@@ -2,7 +2,7 @@
 ## Data Sampling and Model Evaluation
 Name: Harsh Agrawal<br>
 Roll No. 102167002<br>
-Group: 3CO5<br>
+Group: 3CS4<br>
 
 From the table I can conclude that Random forest is best model and if we consider 1 as overfitting then Decision trees will be the best
 
